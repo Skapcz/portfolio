@@ -1,4 +1,6 @@
+import React from 'react'
 import { Brain } from 'lucide-react'
+import { Button } from './ui/button'
 
 export default function AISection() {
   return (

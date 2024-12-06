@@ -1,8 +1,8 @@
 'use client'
 
-import { useState } from 'react'
-import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/components/ui/collapsible'
-import { Button } from '@/components/ui/button'
+import React, { useState } from 'react'
+import { Collapsible, CollapsibleContent, CollapsibleTrigger } from './ui/collapsible'
+import { Button } from './ui/button'
 import { ChevronDown, ChevronUp } from 'lucide-react'
 
 const projects = [
