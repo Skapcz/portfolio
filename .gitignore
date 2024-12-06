@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Tyto složky by NEMĚLY být v .gitignore
+# app/
+# app/components/
