@@ -5,9 +5,9 @@ import AISection from '../components/ai-section'
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-indigo-100 to-purple-100">
+    <div className="min-h-screen bg-[#F0F0FF]">
       <Header />
-      <main className="container mx-auto px-4 py-8">
+      <main>
         <ProjectSection />
         <AISection />
       </main>
