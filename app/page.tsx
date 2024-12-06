@@ -1,6 +1,6 @@
-import Header from '@/components/header'
-import ProjectSection from '@/components/project-section'
-import AISection from '@/components/ai-section'
+import Header from '../components/header'
+import ProjectSection from '../components/project-section'
+import AISection from '../components/ai-section'
 
 export default function Home() {
   return (
